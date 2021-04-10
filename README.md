@@ -6,3 +6,7 @@ Collecting public Twitter posts (tweets) that have been tagged with geographic l
 Assigning a sentiment (positive or negative) to each tweet, based on all of the words it contains,
 Aggregating tweets by the state with the closest geographic center, and finally
 Coloring each state according to the aggregate sentiment of its tweets. Red means positive sentiment; blue means negative.
+
+Run py trends.py -m texas to create the visualization shown below! You need to put all_tweets.txt into the data folder before you can do this. Get all_tweets.txt from my Google Drive. 
+
+![alt text](https://i.imgur.com/CbSKSlb.png)
