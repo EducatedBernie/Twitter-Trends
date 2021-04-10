@@ -2,6 +2,10 @@
 
 A geographic visualization of Twitter data across the USA. The map displayed above depicts how the people in different states feel about Texas. Used dictionaries, lists, and data abstraction techniques to create this modular program. 
 
+You need to put all_tweets.txt into the data folder before you can do this. Get all_tweets.txt from my Google Drive. 
+https://drive.google.com/file/d/1IQjCnIKfy1lmBoCc1EiMoq4V6HNCwxYb/view?usp=sharing
+
+
 Run py trends.py -m texas to create the visualization shown!
 
 ![alt text](https://i.imgur.com/CbSKSlb.png)
@@ -16,4 +20,3 @@ Aggregating tweets by the state with the closest geographic center, and finally
 
 Coloring each state according to the aggregate sentiment of its tweets. Red means positive sentiment; blue means negative.
 
-You need to put all_tweets.txt into the data folder before you can do this. Get all_tweets.txt from my Google Drive. 
